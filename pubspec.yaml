@@ -1,0 +1,14 @@
+name: mezzanine_dart_client
+version: 1.0.2
+description: A Dart client for the REST Web API for Mezzanine with Cartridge
+
+author: Jack van Zyl <thejackvanzyl@gmail.com>
+homepage: https://github.com/jackvz/mezzanine-dart-client
+repository: https://github.com/jackvz/mezzanine-dart-client
+issue_tracker: https://github.com/jackvz/mezzanine-dart-client/issues
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  http: '>=0.11.1 <0.12.0'
